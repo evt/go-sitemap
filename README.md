@@ -13,3 +13,7 @@ Implement simple sitemap (https://www.sitemaps.org) generator as command line to
 -parallel=  			number of parallel workers to navigate through site
 -output-file= 			output file path
 -max-depth= 			max depth of url navigation recursion
+
+## Usage
+- make test
+- make run
